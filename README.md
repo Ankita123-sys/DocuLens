@@ -4,8 +4,6 @@
 
 Upload your PDFs or text files, ask questions in plain English, and get answers backed by your documents—with citations pointing to the exact sources.
 
-## Screenshots
-
 ### Upload documents & choose mode
 
 
