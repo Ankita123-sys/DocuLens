@@ -8,13 +8,10 @@ Upload your PDFs or text files, ask questions in plain English, and get answers 
 
 ### Upload documents & choose mode
 
-![DocuLens upload and sidebar](docs/screenshots/upload-and-sidebar.png)
 
 Upload one or more files in the sidebar. The app indexes them automatically. LaunchDarkly controls whether you search **all documents (RAG)** or only the **latest upload**.
 
 ### Ask questions & view sources
-
-![DocuLens chat with citations](docs/screenshots/chat-with-citations.png)
 
 Type a question in the chat. DocuLens retrieves relevant passages and answers with a **Sources** section so you can verify every claim.
 
